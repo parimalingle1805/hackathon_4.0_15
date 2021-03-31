@@ -1,0 +1,12 @@
+1) Android Studio
+2) Java Decompiler
+3) Photo Transfer App
+4) Open Camera modified
+
+languages: Java
+	   Kotlin
+
+refernces: https://developer.android.com
+           https://stackoverflow.com/
+	   https://www.javadecompilers.com
+	   https://www.phototransferapp.com
